@@ -19,4 +19,5 @@ Helps identify key reasons behind employee exits across departments, roles, and 
 - High-risk groups and retention recommendations
 
 **📸 Screenshot**:
+
 ![Dashboard Preview](https://github.com/ahire-prathamesh/Employee-Retention-Analysis-Report/blob/main/Employee_retention_SS.png)
