@@ -18,6 +18,13 @@ Helps identify key reasons behind employee exits across departments, roles, and 
 - Job satisfaction vs attrition correlation 
 - High-risk groups and retention recommendations
 
-**📸 Screenshot**:
+**📸 Screenshots**:
 
-![Dashboard Preview](https://github.com/ahire-prathamesh/Employee-Retention-Analysis-Report/blob/main/Employee_retention_SS.png)
+**Page-1:**
+
+![Dashboard Preview](https://github.com/ahire-prathamesh/Employee-Retention-Analysis/blob/main/ER1_SS.png)
+
+**Page-2:**
+
+![Dashboard Preview](https://github.com/ahire-prathamesh/Employee-Retention-Analysis/blob/main/ER2_SS.png)
+
