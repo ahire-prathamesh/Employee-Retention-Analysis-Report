@@ -26,5 +26,5 @@ Helps identify key reasons behind employee exits across departments, roles, and 
 
 **Page-2:**
 
-![Dashboard Preview](https://github.com/ahire-prathamesh/Employee-Retention-Analysis/blob/main/ER2_SS.png)
+![Dashboard Preview](https://github.com/ahire-prathamesh/Employee-Retention-Analysis/blob/main/ER_2.SS.png)
 
